@@ -14,8 +14,8 @@ public class SeperateEvenAndOdd {
                 oddList.add(nums[i]);
             }
         }
-        System.out.println("EvenSum : " + evenList);
-        System.out.println("OddSum : " + oddList);
+        System.out.println("EvenList : " + evenList);
+        System.out.println("OddList : " + oddList);
     }
     
 }
